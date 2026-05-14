@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Blank New Tab",
-  "version": "1.0",
+  "name": "Blank New Tab – Pure White & Dark Mode",
+  "version": "1.2",
   "description": "A completely empty new tab page. No icons, no text, just a blank page matching your system theme.",
   "chrome_url_overrides": {
     "newtab": "newtab.html"
