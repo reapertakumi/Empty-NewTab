@@ -9,6 +9,7 @@
 
 ## Downloads
 > [Chrome Webstore](https://chromewebstore.google.com/detail/lcibmbaigeobifnjkfgakaglefhejpjk?utm_source=item-share-cb)
+
 > [Edge Addons](SOON)
 
 Features:
